@@ -5,4 +5,7 @@ body {
   width: 100%;
 }
 h1 {
-  font-family: georiga, ariel
+  font-family: georiga, ariel; 
+  float: left;
+}
+    
