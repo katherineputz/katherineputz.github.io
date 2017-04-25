@@ -1,1 +1,14 @@
-
+* {
+  Background-color: lightgray;
+  font-family: Georgia; Arial; sans-serif;
+}
+body {
+  padding:0; 
+  margin: 0;
+  position: relative; 
+  text-align: center;
+  font-size: 100px; 
+}
+header {
+  Color: purple;
+}
