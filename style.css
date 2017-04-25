@@ -1,11 +1,11 @@
 * {
   background-color: gray;
-}
-body {
-  height: 100%;
-  margin: 0, auto;
+  font-family: georgia, arial, sans-serif;
   text-align: center;
+  height: 100%;
   width: 100%;
-  font-family: georiga, arial, sans-serif;
+  margin: 0, auto;
+  padding: 0;
+  text-align: center;
 }
     
