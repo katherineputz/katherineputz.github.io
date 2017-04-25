@@ -1,4 +1,4 @@
-* {
+-* {
   Background-color: lightgray;
   font-family: Georgia; Arial; sans-serif;
 }
@@ -25,11 +25,15 @@ h2 {
 }
 h3 {
   font-style: italic; 
-  background color: black;
+  background-color: black;
   color: white;
-}
-p {
-  color: black; 
-  font-size: 26px; 
   text-align: left;
+}
+ul {
+  text-align: left; 
+  width: 100%; 
+  font: 26px; 
+  font-weight: 50; 
+  line-height: 24px; 
+  padding: 15%; 
 }
