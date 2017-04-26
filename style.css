@@ -1,8 +1,5 @@
 * {
-  Background-image: url:("https://thumbs.dreamstime.com/z/arabesque-star-pattern-light-grey-background-vector-illustration-48711651.jpg");
-  background-position: center, top;
-  background-size: cover;
-  margin: 0;
+  Background-color:gray
 }
 body {
   margin: 0;
