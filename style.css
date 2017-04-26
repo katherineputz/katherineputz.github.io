@@ -1,6 +1,5 @@
 * {
-  Background-color:lightgray;
-  border: solid, 5px, #000;
+  Background-color:gradient light purple to dark purple;
 }
 body {
   margin: 0;
@@ -32,4 +31,7 @@ h3 {
 }
 ul {
   text-align: left; 
+}
+p {
+  display: inline;
 }
