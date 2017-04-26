@@ -1,16 +1,17 @@
 * {
   Background-color: lightgray;
-  font-family: Georgia; Arial; sans-serif;
 }
 body {
   margin: 0;
   text-align: center;
-  padding: 0;  
+  padding: 30px;  
+  font-family: "lato", sans-serif;
 }
 .header {
   Color: purple;
   font-style: bold;
   text-align: center;
+  font-family: georgia, sans-serif;
 }
 .contactinfo {
   Color: white; 
