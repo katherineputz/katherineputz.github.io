@@ -36,9 +36,14 @@ ul {
 }
 p {
   display: inline;
-  text-align: left;
   width:50%;
 }
 .years {
   float: right;
+}
+.title {
+  float: left;
+}
+.school {
+  text-align: center;
 }
