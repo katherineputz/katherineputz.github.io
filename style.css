@@ -1,5 +1,6 @@
 * {
-  Background-color:gray
+  Background-color:lightgray;
+  border: solid, 5px, #000;
 }
 body {
   margin: 0;
