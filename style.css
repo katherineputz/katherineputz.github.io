@@ -1,3 +1,4 @@
+
 * {
   Background-color:lightgray;
 }
@@ -27,6 +28,7 @@ h2 {
 }
 h3 {
   font-style: italic; 
+  text-align: left;
   width: 50%;
 }
 ul {
@@ -44,5 +46,5 @@ p {
   float: left;
 }
 .school {
-  float: center;
+  text-align:center;
 }
