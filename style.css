@@ -36,6 +36,7 @@ h3 {
   font-style: italic; 
   text-align: left;
   width: 50%;
+  display: inline;
 }
 ul {
   text-align: left; 
