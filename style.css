@@ -35,6 +35,7 @@ ul {
   width:50%;
 }
 p {
+  display: inline;
   width:50%;
 }
 .years {
