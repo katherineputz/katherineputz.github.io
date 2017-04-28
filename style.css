@@ -1,3 +1,4 @@
+
 * {
   Background-color:lightgray;
 }
@@ -37,6 +38,7 @@ ul {
 p {
   display: inline;
   width:50%;
+  line-height: 125%;
 }
 .years {
   float: right;
