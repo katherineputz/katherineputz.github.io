@@ -3,7 +3,7 @@
 }
 body {
   margin: 50px;
-  text-align: left;
+  text-align: center;
   padding: 50px;  
   font-family: arial, sans-serif;
 }
@@ -48,5 +48,5 @@ p {
   float: left;
 }
 .school {
-  text-align: center;
+  text-align: left;
 }
