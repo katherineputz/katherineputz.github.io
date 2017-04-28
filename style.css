@@ -35,11 +35,7 @@ ul {
   width:50%;
   display: block;
 }
-li { 
-  display: block;
-}
 p {
-  display: inline;
   width:50%;
 }
 .years {
