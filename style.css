@@ -1,5 +1,5 @@
 * {
-  Background-color:url (noise.png);
+  Background: url(noise.png);
 }
 body {
   margin: 50px;
