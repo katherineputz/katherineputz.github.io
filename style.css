@@ -52,4 +52,6 @@ p {
 .title {
   float: left;
 }
-
+.school {
+	text-align: left;
+}
