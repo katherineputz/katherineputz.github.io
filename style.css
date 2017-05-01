@@ -53,3 +53,6 @@ p {
 .school {
 	text-align: left;
 }
+.block-link {
+	display: inline;
+}
