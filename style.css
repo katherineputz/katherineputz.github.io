@@ -22,9 +22,6 @@ body {
 }
 #pic {
 	float: right;
-	border-radius: 50%;
-	height: 40%; 
-	width: 80%;
 }
 #link {
 	float:right;
