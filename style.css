@@ -1,5 +1,7 @@
 * {
-Background: url (flower.jpg);
+Background: url(flower.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 body {
   margin: 50px;
