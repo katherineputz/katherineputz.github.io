@@ -1,7 +1,7 @@
 * {
-	background: url(purplebackground.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
+   background: url(purplebackground.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
 }
 body {
   margin: 50px;
