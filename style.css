@@ -28,7 +28,8 @@ body {
 }
 h2 {
   font-style: bold; 
-  color: #660099;
+  background: black;
+  color: white; 
 }
 h3 {
   font-style: italic; 
