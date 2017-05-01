@@ -23,6 +23,8 @@ body {
 #pic {
 	float: right;
 	border-radius: 50%;
+	height: auto; 
+	width: 100%;
 }
 #link {
 	float:right;
