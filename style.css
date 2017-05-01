@@ -2,7 +2,7 @@ body {
   background: url(subtle.jpg);
   background-size: cover;
   background-repeat: no-repeat;
-  margin: 0, 50px, 50px, 50px;
+  margin: 50px;
   text-align: center;
   padding: 50px;  
   font-family: arial, sans-serif;
